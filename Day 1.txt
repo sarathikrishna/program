@@ -12,7 +12,7 @@ class UserMainCode
   }
 }
 
-2.Is odd?
+2.Is odd ?
 
 import java.io.*;
 import java.util.*;
