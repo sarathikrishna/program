@@ -1,4 +1,4 @@
-Day 1
+
 
 1.Is even ? 
 
@@ -25,7 +25,7 @@ public int isOdd(int input1){
    }
 }
 
-3.Last digit of number ?
+3.Return Last digit of number ?
 
 import java.io.*; 
 import java.util.*;
@@ -38,7 +38,7 @@ class UserMainCode
     }
 }
 
-4.Second last digit of number ?
+4.Return Second last digit of number ?
 
 import java.io.*;
 import java.util.*;
