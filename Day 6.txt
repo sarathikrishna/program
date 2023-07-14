@@ -75,7 +75,7 @@ import java.util.*;
 class UserMaincode
 {
   public int totalHillWeight(int input1,int input2,int input3){
-   int sum=0.i.j:
+   int sum=0,i,j;
   for(i=0;i<input1;i++)
 {
    for(j=0;j<=i;j++)
