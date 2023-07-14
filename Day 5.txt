@@ -1,5 +1,5 @@
 
-1.Sum of all digits in N
+1.Sum of all digits in N ?
 
 import java.io.*; 
 import java.util.*;
@@ -34,7 +34,7 @@ else{
 }
 }
 
-2.Even digit's sum
+2.Even digit's sum ?
 
 import java.io.*;
 import java.util.*;
@@ -53,7 +53,7 @@ import java.util.*;
 }
 }
 
-3.Sum of odd digits in N
+3.Sum of odd digits in N ?
 
 import java.io.*;
 import java.util.*;
@@ -71,7 +71,7 @@ class UserMaincode
      return sum;
 }
 
-4.Sum of even or odd digits of N
+4.Sum of even or odd digits of N ?
 
 import java.io.*.;
 import java.util.*;
