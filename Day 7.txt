@@ -1,4 +1,4 @@
-Return second word in uppercase ?
+1.Return second word in uppercase ?
 
 import java.io.*;
 import java.util.*;
@@ -15,7 +15,7 @@ class UserMaincode
 }
 
 
-Is palindrome (sring) ?
+2.Is palindrome (sring) ?
 
 import java.io.*;
 import java.util.*;
@@ -37,7 +37,7 @@ class UserMaincode
    return 2:
 }
 
-Weight of string ?
+3.Weight of string ?
 
 import java.io.*;
 import java.util.*;
@@ -79,10 +79,12 @@ return sum;
 }
 }
 
-Most frequent digit ?
-#include
+4.Most frequent digit ?
 
-
+#include<stdio.h>
+#include<string.h>
+int MostFrequentDigit(int input1,int input2,int input3,int input4)
+{
 int h[10]=[0];
 int i;
 if(input1=0&&input2==0&&input3-=0&&input4==0)
