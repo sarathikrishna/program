@@ -48,7 +48,7 @@ import java.util.*;
        if(input1<0)
           input1=(-1)*input1;
        int c=0; 
-       int i=integer.toString(input1)             length();
+       int i=integer.toString(input1).length();
        int r=0;
        if(l==1)
          return -1;
