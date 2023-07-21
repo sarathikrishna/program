@@ -1,5 +1,5 @@
 
-Simple encoded array ?
+1.Simple encoded array ?
 
 import java.io.*; 
 import  java.util.*; 
