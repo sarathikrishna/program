@@ -15,7 +15,7 @@ class UserMaincode
 }
 
 
-2.Is palindrome (string) ?
+2.Is palindrome (string) 
 
 import java.io.*;
 import java.util.*;
